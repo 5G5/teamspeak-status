@@ -1,6 +1,6 @@
 {
   "name": "teamspeak-status",
-  "version": "1.0",
+  "version": "0.2.1",
   "license": "MIT",
   "main": "app.js",
   "dependencies": {
