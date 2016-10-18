@@ -1,14 +1,10 @@
 {
   "name": "teamspeak-status",
-  "version": "0.2.1",
-  "author": "Moritz Marquardt",
+  "version": "1.0",
   "license": "MIT",
   "main": "app.js",
   "dependencies": {
     "express": "^4.14.0",
-    "eyes": "^0.1.8",
-    "handlebars": "^4.0.5",
-    "node-markdown": "^0.1.1",
     "node-teamspeak": "^1.0.10"
   }
 }
